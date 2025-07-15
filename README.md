@@ -7,4 +7,4 @@ Looking for a way to study for the AIGP (Artificial Intelligence Governance Prof
 
 This online exam simulator focuses on key terms and concepts in AI governance, helping you master essential topics. Each question includes a concise explanation to enhance your understanding and retention. Ideal for self-paced learning and exam preparation, this tool is a valuable addition to your AIGP study plan.
 
-Link: [ Free AIGP Practice Exam]([https://citizendb.github.io/AIGP/index.html](https://www.aigovernance.expert/aigp-certification-practice-test-free-exam-1/))
+Link: [ Free AIGP Practice Exam]([https://citizendb.github.io/AIGP/index.html](https://www.aigovernance.expert/aigp-certification-practice-test-free-exam-1/)
